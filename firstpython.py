@@ -3,7 +3,3 @@
 pritn("New Python File")
 
 print("B")
-
-
-
-print('BBB')
